@@ -1,1 +1,2 @@
-console.log('good by world');
+import { greetings } from './util';
+greetings('hoge');
